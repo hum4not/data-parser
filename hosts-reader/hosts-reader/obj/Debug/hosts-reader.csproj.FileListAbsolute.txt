@@ -1,0 +1,11 @@
+C:\Users\humanot\source\repos\hosts-reader\hosts-reader\bin\Debug\hosts-reader.exe.config
+C:\Users\humanot\source\repos\hosts-reader\hosts-reader\bin\Debug\hosts-reader.exe
+C:\Users\humanot\source\repos\hosts-reader\hosts-reader\bin\Debug\hosts-reader.pdb
+C:\Users\humanot\source\repos\hosts-reader\hosts-reader\obj\Debug\hosts-reader.csproj.AssemblyReference.cache
+C:\Users\humanot\source\repos\hosts-reader\hosts-reader\obj\Debug\hosts-reader.csproj.SuggestedBindingRedirects.cache
+C:\Users\humanot\source\repos\hosts-reader\hosts-reader\obj\Debug\hosts_reader.Form1.resources
+C:\Users\humanot\source\repos\hosts-reader\hosts-reader\obj\Debug\hosts_reader.Properties.Resources.resources
+C:\Users\humanot\source\repos\hosts-reader\hosts-reader\obj\Debug\hosts-reader.csproj.GenerateResource.cache
+C:\Users\humanot\source\repos\hosts-reader\hosts-reader\obj\Debug\hosts-reader.csproj.CoreCompileInputs.cache
+C:\Users\humanot\source\repos\hosts-reader\hosts-reader\obj\Debug\hosts-reader.exe
+C:\Users\humanot\source\repos\hosts-reader\hosts-reader\obj\Debug\hosts-reader.pdb
